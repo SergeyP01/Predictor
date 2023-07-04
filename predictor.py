@@ -1,4 +1,6 @@
-from tkinter import *
+'''Шуточная программа предсказания'''
+
+from tkinter import Tk, Label, Button, Entry, StringVar, END, CENTER
 from random import randint, choice
 
 
